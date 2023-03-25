@@ -1,0 +1,4 @@
+name: Sample1
+version: '1.0-SNAPSHOT'
+main: plugin.sample1.Sample1
+api-version: 1.19
